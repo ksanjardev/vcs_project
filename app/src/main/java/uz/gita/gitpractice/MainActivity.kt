@@ -17,7 +17,9 @@ class MainActivity : AppCompatActivity() {
             insets
         }
 
-        // Karimov Sanjar
+        // ---Karimov Sanjar---
+        // 23.10.2024
+        // Practicing git hub in BootCamp 9 by Rustam Akbaraliyev
 
     }
 }
